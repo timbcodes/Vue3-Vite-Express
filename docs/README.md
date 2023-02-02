@@ -21,11 +21,11 @@ This frontend scaffold contains most of the stuff you'll need to get started bui
 
 ## To Get Started:
 Clone this repository to your code editor. Open a terminal in your editor and do the following to set up the frontend:
-  1.) Type cd client
-  2.) Type npm install
-  3.) Type npm run dev to start the Vite dev server
+  1. Type cd client
+  2. Type npm install
+  3. Type npm run dev to start the Vite dev server
 To setup the backend, open your terminal and:
-  1.) Type cd server
-  2.) Type npm install
-  3.) Type nodemon run start
+  1. Type cd server
+  2. Type npm install
+  3. Type nodemon run start
   If you need to change the port that your project is running on, you can do this in bin/www
