@@ -1,6 +1,6 @@
 var express = require('express');
 var router = express.Router();
-const corsPolicy = require('../../middleware/CORS/cors');
+const corsPolicy = require('../middleware/CORS/cors');
 
 /* Use the CORS middleware */
 router.use(corsPolicy.corsMiddleware());
