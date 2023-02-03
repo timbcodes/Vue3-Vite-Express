@@ -12,7 +12,7 @@ This frontend scaffold contains most of the stuff you'll need to get started bui
   
 ## Express
  This is a web backend you can use as an intermediary between your frontend web client and your backend microservices. It includes everything you need to get started:
-  - CORS with a config file to get you started
+  - CORS with a config file to get you started (These settings are for local development only! You'll need to change these before launching to prod)
   - Express-session middleware to send session cookies if needed
   - Axios for API calls to your backend microservices
   - MySQL2 if needed (you can change this to fit your choice of database)
